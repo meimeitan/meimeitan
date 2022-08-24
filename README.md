@@ -9,16 +9,11 @@
 
 - 🌱 I'm currently learning **NLP and database administration**
 
-- 👨‍💻 All of my projects are available at [https://github.com/meimeitan](https://github.com/meimeitan)
+- 👨‍💻 All of my projects are available at [https://github.com/meimeitan]()
 
-- ⚡ Core Competencies ⚡ 
-      Tools: **SQL, Python, Tableau**
-      Skills: **Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development**
-      Strength: **Critical Thinking; Problem Solving; Leadership; Communication; Innovative**
+- ⚡ Core Competencies Skills: **Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development**
 
-<h3 align="left">Connect with me:**https://www.linkedin.com/in/mei-tan-12061169/**</h3>
-<p align="left">
-</p>
+- 🛠  Strength: **Critical Thinking; Problem Solving; Leadership; Communication; Innovative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://www.linkedin.com/in/mei-tan-12061169/" target="_blank" rel="noreferrer"> <img src="https://www.aokisistemas.com.br/wp-content/uploads/2020/01/logo-linkedin-square.jpg" alt="linked" width="40" height="40"/> </a>
