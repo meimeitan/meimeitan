@@ -5,17 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meimeitan" alt="meimeitan" /></a> </p>
 
-- 🔭 I’m currently brushing up my skills on data cleaning and wrangling skills using Python
-
-- 🌱 I’m currently learning **NLP and database administration**
+- 🔭 I’m currently brushing up my skills on **data cleaning and wrangling skills using Python** and learning **NLP and database administration**
 
 - 👨‍💻 All of my projects are available at [https://github.com/meimeitan](https://github.com/meimeitan)
 
-- 📫 How to reach me **https://www.linkedin.com/in/mei-tan-12061169/**
+- ⚡ Core Competencies ⚡ 
+      Tools: **SQL, Python, Tableau**
+      Skills: **Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development**
+      Strength: **Critical Thinking; Problem Solving; Leadership; Communication; Innovative**
 
-- ⚡ Skills **Critical Thinking; Problem Solving; Leadership; Communication; Innovative.**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:**https://www.linkedin.com/in/mei-tan-12061169/**</h3>
 <p align="left">
 </p>
 
