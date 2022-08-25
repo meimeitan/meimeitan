@@ -1,16 +1,11 @@
 <h1 align="left">Hello World 👋, I'm Mei Tan</h1>
-<h3 align="left">Lover of numbers, storytelling and passionate about finding data-driven solutions to pressing issues.</h3>
 
-- 🔭 I’m currently learning Cloud computing and database administration
-
-- ✍️ My Skills: Data Cleaning and Wrangling, Machine learning, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
-
-- 💡 My Strengths: Critical Thinking, Problem Solving, Leadership, Communication and Innovative
-
+- 🎓 I’m a Msc Data Science graduate and currently learning Cloud computing and database administration
+- 💡  I like to find different and innovative ways of analyzing, processing, and finding insights from data.
+- 🔥  Interested in Artificial Intelligence, Math, Machine Learning, Data analysis and Programming
+- 💡  My Strengths: Critical Thinking, Problem Solving, Leadership, Communication and Innovative
 - 💬 Ask me about ... Anything
-
 - 😄 Pronouns: She/Her
-
 - ⚡ Fun fact: I speak 4 languages ( English, Malay, Mandarin & Cantonese)
 
 ### 🤝🏻 &nbsp; Talk with me, I am kinda awesome
