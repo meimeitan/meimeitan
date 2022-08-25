@@ -1,7 +1,7 @@
 <h1 align="left">Hello World 👋, I'm Mei Tan</h1>
 <h3 align="left">Interested in Artificial Intelligence, Math, Machine Learning, Data analysis and Programming</h1>
 
-- 🎓 I’m a Msc Data Science graduate and currently learning Cloud computing and database administration
+- 🎓I’m a Msc Data Science graduate and currently learning Cloud computing and database administration
 - 💡    I like to find different and innovative ways of analyzing, processing, and finding insights from data.
 - 🔥    My Strengths: Critical Thinking, Problem Solving, Leadership, Communication and Innovative
 - 💬 Ask me about ... Anything
