@@ -1,19 +1,26 @@
-<h1 align="center">Hi 👋, I'm Mei Tan</h1>
-<h3 align="center">Lover of numbers, storytelling and passionate about finding data-driven solutions to pressing issues.</h3>
+<h1 align="left">Hi 👋, I'm Mei Tan</h1>
+<h3 align="left">Lover of numbers, storytelling and passionate about finding data-driven solutions to pressing issues.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meimeitan&label=Profile%20views&color=0e75b6&style=flat" alt="meimeitan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meimeitan" alt="meimeitan" /></a> </p>
 
-- 🔭 I’m currently brushing up my skills on data cleaning and wrangling using Python to become a Data Scientist!
 
-- 🌱 I'm currently learning NLP and database administration
+<p align="right"> <img src="https://github.com/meimeitan/meimeitan/blob/main/Redcoder.gif" alt="meimeitan" raw=true" width="400" height="350"/> </p>
+
+- 🔭 I’m currently brushing up my skills on data cleaning and wrangling using Python to become a Data Scientist!
 
 - ⚡ Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
 
 - 🛠  Strength: Critical Thinking, Problem Solving, Leadership, Communication and Innovative
 
-<h3 align="left">Connect with me:</h3>
+- 💬 Ask me about ... Anything
+
+- 😄 Pronouns: She/Her
+
+- ⚡ Fun fact: I speak 4 languages ( English, Malay, Mandarin & Cantonese)
+
+<h3 align="left">Talk with me, I am kinda awesome:</h3>
 <p align="left"> <a href="https://www.linkedin.com/in/mei-tan-12061169/" target="_blank" rel="noreferrer"> <img src="https://www.aokisistemas.com.br/wp-content/uploads/2020/01/logo-linkedin-square.jpg" alt="linked" width="40" height="40"/> </a>
 
 <h3 align="left">Languages and Tools:</h3>
