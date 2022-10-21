@@ -1,11 +1,11 @@
 <h1 align="left">Hello World 👋, I'm Mei Tan</h1>
 <h3 align="left">Interested in Artificial Intelligence, Math, Machine Learning, Data analysis and Programming</h1>
 
-- 🎓I’m a Msc Data Science graduate and currently learning Cloud computing and database administration.
+- 🎓   Msc Data Science graduate and currently learning Cloud computing and database administration.
 - 💡    I like to find different and innovative ways of analyzing, processing, and finding insights from data.
 - 🔥    My Strengths: Innovative, Critical Thinking, Problem Solving, Communication and Leadership. 
-- 💬 Ask me about ... Anything
-- ⚡ Fun fact: I speak 4 languages ( English, Malay, Mandarin & Cantonese)
+- 💬   Ask me about ... Anything
+- ⚡   Fun fact: I speak 4 languages ( English, Malay, Mandarin & Cantonese)
 
 ### 🤝🏻 &nbsp; Talk with me, I am kinda awesome
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mei-tan-12061169/)
