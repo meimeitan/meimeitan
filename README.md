@@ -4,7 +4,7 @@
 - 🎓   Msc Data Science graduate and currently learning Cloud computing and database administration.
 - 💡    I like to find different and innovative ways of analyzing, processing, and finding insights from data.
 - 🔥    My Strengths: Innovative, Critical Thinking, Problem Solving, Communication and Leadership. 
-- 💬   Ask me about ... Anything
+- 💬   Ask me about ... Anything..
 - ⚡   Fun fact: I speak 4 languages ( English, Malay, Mandarin & Cantonese)
 
 ### 🤝🏻 &nbsp; Talk with me, I am kinda awesome
